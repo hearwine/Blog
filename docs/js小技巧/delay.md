@@ -18,3 +18,4 @@ const getRes = async (data) => {
     }
 }
 getRes(true) // 隔了1秒
+```
